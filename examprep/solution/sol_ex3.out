@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section*.1}{Part1}{}% 1
+\BOOKMARK [1][-]{section*.2}{Part2}{}% 2
+\BOOKMARK [1][-]{section*.3}{Part3}{}% 3
+\BOOKMARK [1][-]{section*.4}{Part4}{}% 4
+\BOOKMARK [2][-]{section*.5}{solution for =0.01 at L=3}{section*.4}% 5
+\BOOKMARK [2][-]{section*.6}{solution for =0.002 at L=3}{section*.4}% 6
+\BOOKMARK [2][-]{section*.7}{solution for =0.001 at L=3}{section*.4}% 7
+\BOOKMARK [2][-]{section*.8}{Iterations needed for convergence}{section*.4}% 8
+\BOOKMARK [1][-]{section*.9}{Part5}{}% 9
+\BOOKMARK [2][-]{section*.10}{Weak form of NS-equation}{section*.9}% 10
+\BOOKMARK [2][-]{section*.11}{Time discretisation by -scheme}{section*.9}% 11
+\BOOKMARK [2][-]{section*.12}{Newton iteration}{section*.9}% 12
+\BOOKMARK [2][-]{section*.13}{Picard iteration}{section*.9}% 13
+\BOOKMARK [2][-]{section*.14}{Space discretisation by Tailor-Hood element}{section*.9}% 14
+\BOOKMARK [2][-]{section*.15}{Mesh}{section*.9}% 15
+\BOOKMARK [2][-]{section*.16}{Investigating influence of \040values on solution for t[0,2]}{section*.9}% 16
+\BOOKMARK [2][-]{section*.17}{Comparing 0.5 methods for t[0,5]}{section*.9}% 17
+\BOOKMARK [2][-]{section*.18}{p-refinement at = 0.5 method for t[0,5]}{section*.9}% 18

@@ -1,0 +1,15 @@
+# how to set up conda environment with ngsolve
+
+conda create --name py37 python=3.7
+conda activate py37
+
+conda config --env --add channels conda-forge
+conda config --env --add channels ngsolve
+conda config --env --set channel_priority strict
+conda install ngsolve numpy
+
+conda config --env --set channel_priority false
+conda install ngsolve matplotlib
+
+conda install spyder=3
+
